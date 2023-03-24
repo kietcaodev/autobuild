@@ -1,5 +1,5 @@
 # autobuild
-autobuild asterisk 18 * 16 with cmd
+autobuild asterisk 18 * 16 with cmd on centos 7
 
 sudo yum -y install wget
 
